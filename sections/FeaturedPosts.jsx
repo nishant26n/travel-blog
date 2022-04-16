@@ -48,7 +48,7 @@ const FeaturedPosts = () => {
           strokeLinecap="round"
           strokeLinejoin="round"
           strokeWidth="2"
-          d="M10 19l-7-7m0 0l7-7m-7 7h18"
+          d="M20 19l-7-7m0 0l7-7m-7 7h"
         />
       </svg>
     </div>
@@ -67,7 +67,7 @@ const FeaturedPosts = () => {
           strokeLinecap="round"
           strokeLinejoin="round"
           strokeWidth="2"
-          d="M14 5l7 7m0 0l-7 7m7-7H3"
+          d="M15 5l7 7m0 0l-7 7m7-7h"
         />
       </svg>
     </div>
